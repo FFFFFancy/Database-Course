@@ -1,0 +1,6 @@
+﻿  get_table.cpp
+D:\curriculum\数据库系统原理实验\lab4\Project1\get_table.cpp(87,71): warning C4101: “str7”: 未引用的局部变量
+D:\curriculum\数据库系统原理实验\lab4\Project1\get_table.cpp(88,59): warning C4101: “len_str6”: 未引用的局部变量
+D:\curriculum\数据库系统原理实验\lab4\Project1\get_table.cpp(87,61): warning C4101: “str6”: 未引用的局部变量
+D:\curriculum\数据库系统原理实验\lab4\Project1\get_table.cpp(88,69): warning C4101: “len_str7”: 未引用的局部变量
+  Project1.vcxproj -> D:\curriculum\数据库系统原理实验\lab4\Project1\x64\Debug\Project1.exe
